@@ -12,6 +12,11 @@ h2 {
 }
 
 a {
+    text-decoration: underline;
+    color: royalblue;
+} 
+
+a.button {
     background-color: royalblue;
     color: whitesmoke;
     padding: 6pt;
