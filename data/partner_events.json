@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-07-28",
+  "updatedAt": "2026-07-29",
   "scotlandis": [
+    {
+      "title": "Building Resilience Through Observability",
+      "url": "https://www.scotlandis.com/blog/events/building-resilience-through-observability/",
+      "date": "29 Jul 2026",
+      "datetime": "2026-07-29",
+      "detail": "ScotlandIS event"
+    },
     {
       "title": "DBT Scotland \u0026 India Business Drinks Reception",
       "url": "https://www.scotlandis.com/blog/events/dbt-scotland-india-business-drinks-reception/",
@@ -14,13 +21,6 @@
       "date": "12 Aug 2026",
       "datetime": "2026-08-12",
       "detail": "Ardoe House Hotel"
-    },
-    {
-      "title": "ScotlandIS Member Outing: Arthur's Seat",
-      "url": "https://www.scotlandis.com/blog/events/scotlandis-member-outing-arthurs-seat/",
-      "date": "18 Aug 2026",
-      "datetime": "2026-08-18",
-      "detail": "ScotlandIS event"
     }
   ],
   "bayes": []
