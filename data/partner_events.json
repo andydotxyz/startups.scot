@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-04",
+  "updatedAt": "2026-08-05",
   "scotlandis": [
     {
       "title": "Scottish OT Cyber Summit",
@@ -23,5 +23,20 @@
       "detail": "ScotlandIS event"
     }
   ],
-  "bayes": []
+  "bayes": [
+    {
+      "title": "Bayes Centre Refresh",
+      "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
+      "date": "27 Aug 2026",
+      "datetime": "2026-08-27",
+      "detail": "Join us for our seasonal coffee morning, the Bayes Refresh"
+    },
+    {
+      "title": "Doors Open Day",
+      "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
+      "date": "26 Sep 2026",
+      "datetime": "2026-09-26",
+      "detail": "The Bayes Centre"
+    }
+  ]
 }
