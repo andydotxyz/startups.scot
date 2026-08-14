@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "scotlandis": [
     {
       "title": "ScotlandIS Member Outing: Arthur's Seat",
@@ -25,13 +25,6 @@
   ],
   "bayes": [
     {
-      "title": "Venture Cafe: Thursday Gathering",
-      "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
-      "date": "13 Aug 2026",
-      "datetime": "2026-08-13",
-      "detail": "The Bayes Centre"
-    },
-    {
       "title": "Venture Cafe: Thursday Gatherings",
       "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
       "date": "20 Aug 2026",
@@ -44,6 +37,13 @@
       "date": "27 Aug 2026",
       "datetime": "2026-08-27",
       "detail": "Join us for our seasonal coffee morning, the Bayes Refresh"
+    },
+    {
+      "title": "Venture Cafe: Thursday Gatherings",
+      "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
+      "date": "27 Aug 2026",
+      "datetime": "2026-08-27",
+      "detail": "The Bayes Centre"
     }
   ]
 }
