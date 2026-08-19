@@ -1,13 +1,6 @@
 {
-  "updatedAt": "2026-08-18",
+  "updatedAt": "2026-08-19",
   "scotlandis": [
-    {
-      "title": "ScotlandIS Member Outing: Arthur's Seat",
-      "url": "https://www.scotlandis.com/blog/events/scotlandis-member-outing-arthurs-seat/",
-      "date": "18 Aug 2026",
-      "datetime": "2026-08-18",
-      "detail": "ScotlandIS event"
-    },
     {
       "title": "IT Managed Service Provider Vendor Event: Solutions Exchange",
       "url": "https://www.scotlandis.com/blog/events/it-managed-service-provider-vendor-event-solutions-exchange/",
@@ -20,6 +13,13 @@
       "url": "https://www.scotlandis.com/blog/events/perfect-your-sales-skills/",
       "date": "26 Aug 2026",
       "datetime": "2026-08-26",
+      "detail": "ScotlandIS event"
+    },
+    {
+      "title": "ScotlandIS Tech Tidbits: Cyber Security Risk and Resilience in the Supply Chain",
+      "url": "https://www.scotlandis.com/blog/events/scotlandis-tech-tidbits-2/",
+      "date": "1 Sep 2026",
+      "datetime": "2026-09-01",
       "detail": "ScotlandIS event"
     }
   ],
