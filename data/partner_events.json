@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "scotlandis": [
     {
       "title": "Foundation Apprentice Employer Consultation Workshop #1",
@@ -25,13 +25,6 @@
   ],
   "bayes": [
     {
-      "title": "Venture Cafe: Thursday Gatherings",
-      "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
-      "date": "20 Aug 2026",
-      "datetime": "2026-08-20",
-      "detail": "The Bayes Centre"
-    },
-    {
       "title": "Bayes Centre Refresh",
       "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
       "date": "27 Aug 2026",
@@ -43,6 +36,13 @@
       "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
       "date": "27 Aug 2026",
       "datetime": "2026-08-27",
+      "detail": "The Bayes Centre"
+    },
+    {
+      "title": "Doors Open Day",
+      "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
+      "date": "26 Sep 2026",
+      "datetime": "2026-09-26",
       "detail": "The Bayes Centre"
     }
   ]
