@@ -1,26 +1,26 @@
 {
-  "updatedAt": "2026-08-26",
+  "updatedAt": "2026-08-27",
   "scotlandis": [
-    {
-      "title": "Foundation Apprentice Employer Consultation Workshop #1",
-      "url": "https://www.scotlandis.com/blog/events/foundation-apprentice-employer-consultation-workshop-1/",
-      "date": "26 Aug 2026",
-      "datetime": "2026-08-26",
-      "detail": "ScotlandIS event"
-    },
-    {
-      "title": "Perfect Your Sales Skills",
-      "url": "https://www.scotlandis.com/blog/events/perfect-your-sales-skills/",
-      "date": "26 Aug 2026",
-      "datetime": "2026-08-26",
-      "detail": "ScotlandIS event"
-    },
     {
       "title": "Edinburgh Decentralised Finance Summit 2026",
       "url": "https://www.scotlandis.com/blog/events/edinburgh-decentralised-finance-summit-2026/",
       "date": "1 Sep 2026",
       "datetime": "2026-09-01",
       "detail": "Royal College of Physicians Edinburgh (RCPE)"
+    },
+    {
+      "title": "ScotlandIS Tech Tidbits: Cyber Security Risk and Resilience in the Supply Chain",
+      "url": "https://www.scotlandis.com/blog/events/scotlandis-tech-tidbits-2/",
+      "date": "1 Sep 2026",
+      "datetime": "2026-09-01",
+      "detail": "ScotlandIS event"
+    },
+    {
+      "title": "R\u0026D Tax Credits – Addressing the Challenges Facing Scotland’s Tech Sector",
+      "url": "https://www.scotlandis.com/blog/events/rd-tax-credits-addressing-the-challenges-facing-scotlands-tech-sector/",
+      "date": "1 Sep 2026",
+      "datetime": "2026-09-01",
+      "detail": "ScotlandIS event"
     }
   ],
   "bayes": [
