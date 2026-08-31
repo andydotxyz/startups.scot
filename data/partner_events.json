@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "scotlandis": [
     {
       "title": "Edinburgh Decentralised Finance Summit 2026",
@@ -25,6 +25,13 @@
   ],
   "bayes": [
     {
+      "title": "AI Accelerator 2026 Launch Event",
+      "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
+      "date": "16 Sep 2026",
+      "datetime": "2026-09-16",
+      "detail": "The Bayes Centre"
+    },
+    {
       "title": "Bayes Community Quiz Night",
       "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
       "date": "17 Sep 2026",
@@ -36,13 +43,6 @@
       "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
       "date": "22 Sep 2026",
       "datetime": "2026-09-22",
-      "detail": "The Bayes Centre"
-    },
-    {
-      "title": "Doors Open Day",
-      "url": "https://www.hub.bayes.ed.ac.uk/events#UPCOMING-EVENTS",
-      "date": "26 Sep 2026",
-      "datetime": "2026-09-26",
       "detail": "The Bayes Centre"
     }
   ]
